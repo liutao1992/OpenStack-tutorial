@@ -179,9 +179,8 @@ gpgcheck=0
 
 ### 查看OpenStack核心组建nova的版本 `nova-manage version`
 
-[参考链接1](https://www.liquidweb.com/kb/openstack-installation/)
+[参考链接](https://www.alibabacloud.com/blog/how-to-install-single-node-openstack-on-centos-7_594048?spm=a2c41.12117054.0.0)
 
-[参考链接2](https://www.golinuxcloud.com/openstack-installation-packstack-centos-linux-7/)
 
 
   
